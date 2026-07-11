@@ -144,7 +144,7 @@ This project is licensed under the MIT License.
 
 GitHub: https://github.com/Shreya3501
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/shreya-sunal-a2859b389/
 
 ---
 
